@@ -53,6 +53,36 @@
         }
       ]
     },
+        {
+      "name": "Download Tools",
+      "items": [
+        {
+          "name": "YouTube",
+          "desc": "Video Downloader",
+          "path": "/search/youtube?q="
+        },
+                {
+          "name": "YouTube",
+          "desc": "Mp3 Downloader",
+          "path": "/search/youtube?q="
+        },
+                {
+          "name": "Tiktok",
+          "desc": "Video Downloader",
+          "path": "/search/youtube?q="
+        },
+        {
+          "name": "Tiktok",
+          "desc": "Mp3 Downloader",
+          "path": "/search/youtube?q="
+        },
+                {
+          "name": "Spotify",
+          "desc": "Music Downloader",
+          "path": "/search/youtube?q="
+        }
+      ]
+    },
     {
       "name": "Search Tools",
       "items": [
