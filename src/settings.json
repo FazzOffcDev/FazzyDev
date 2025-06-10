@@ -1,6 +1,6 @@
 {
-  "name": "FazzyDev Api's",
-  "version": "FazzyDev-Api",
+  "name": "FazzOrochiXy Api's",
+  "version": "FazzOrochiXy-Api",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
@@ -14,18 +14,8 @@
     }
   },
   "apiSettings": {
-    "creator": "Fazzy"
+    "creator": "FazzDeveloper"
   },
-  "links": [
-    {
-      "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
-    },
-    {
-      "name": "Contact Me",
-      "url": "https://wa.me/6283193557958"
-    }
-  ],
   "categories": [
     {
       "name": "AI (Artificial Intelligence)",
